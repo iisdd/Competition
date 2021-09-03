@@ -9,3 +9,12 @@
 1.学习了LSTM的基本原理与代码实现 
 
 2.练习了pandas数据处理的基本操作(包括读取,分析,输出csv)
+
+
+![]()
+Train Score: 36.62 RMSE
+Test Score: 36.95 RMSE
+
+
+
+
