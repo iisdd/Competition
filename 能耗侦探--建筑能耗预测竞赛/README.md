@@ -12,7 +12,7 @@
 
 
 ![Loss](https://github.com/iisdd/Competition/blob/main/%E8%83%BD%E8%80%97%E4%BE%A6%E6%8E%A2--%E5%BB%BA%E7%AD%91%E8%83%BD%E8%80%97%E9%A2%84%E6%B5%8B%E7%AB%9E%E8%B5%9B/upload_pic/Loss.png)
-Epoch=2000, Batch_Size=16,最后结果
+## Epoch=2000, Batch_Size=16,最后结果
 
 ![res](https://github.com/iisdd/Competition/blob/main/%E8%83%BD%E8%80%97%E4%BE%A6%E6%8E%A2--%E5%BB%BA%E7%AD%91%E8%83%BD%E8%80%97%E9%A2%84%E6%B5%8B%E7%AB%9E%E8%B5%9B/upload_pic/res.png)
 
