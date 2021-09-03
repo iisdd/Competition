@@ -15,3 +15,12 @@
 
 ## 游戏画面
 ![game](https://github.com/iisdd/Competition/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%AF%94%E8%B5%9B%E8%B5%84%E6%96%99/upload_pic/%E6%B8%B8%E6%88%8F%E7%94%BB%E9%9D%A2.png)
+
+# 状态
+(224, 224, 3)的RGB图片
+# 动作
+上下左右
+# 奖励函数
+小豆子+2,大豆子+3,吃鬼+6,赢游戏+10,gameover-15,r==0时常态惩罚-2(为了快速通关)
+# 神经网络
+迁移ResNet18,输出层从1000改成4
