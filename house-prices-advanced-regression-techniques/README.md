@@ -41,7 +41,9 @@
 ![](https://github.com/iisdd/Competition/blob/main/house-prices-advanced-regression-techniques/upload_pic/stack%20model.jpg)
 
 ## 最终结果
+
 输出的y_pred要exp一下再跟y比
+
 RMSE: 0.11976
 
 
