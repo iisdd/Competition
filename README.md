@@ -8,4 +8,4 @@
 3.kaggle泰坦尼克号(二分类)
 
 4.kaggle房价预测(回归)
-
+![](https://github.com/iisdd/Competition/blob/main/house-prices-advanced-regression-techniques/upload_pic/stack%20model.jpg)
