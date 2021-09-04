@@ -10,5 +10,5 @@
 ### 删除前
 ![](https://github.com/iisdd/Competition/blob/main/house-prices-advanced-regression-techniques/upload_pic/Before%20Deleting%20outliers.png)
 
-### 删除后,可以看到过高的房价点被删除
+### 删除后,可以看到面积又大房价又小的点被删除
 ![](https://github.com/iisdd/Competition/blob/main/house-prices-advanced-regression-techniques/upload_pic/After%20Deleting%20outliers.png)
