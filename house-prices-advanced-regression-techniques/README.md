@@ -40,6 +40,8 @@
 融合模型 * 70% + XGB * 15 + LGB * 15% = 最终结果
 ![](https://github.com/iisdd/Competition/blob/main/house-prices-advanced-regression-techniques/upload_pic/stack%20model.jpg)
 
+## 最终结果
+RMSE: 0.11976
 
 
 
