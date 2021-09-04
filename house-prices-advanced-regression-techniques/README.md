@@ -22,7 +22,7 @@
 ![](https://github.com/iisdd/Competition/blob/main/house-prices-advanced-regression-techniques/upload_pic/SalePrice%20after%20normalized.png)
 
 ## 缺失值填补
-![]()
+![](https://github.com/iisdd/Competition/blob/main/house-prices-advanced-regression-techniques/upload_pic/Percent%20missing%20data%20by%20feature.png)
 
 
 
