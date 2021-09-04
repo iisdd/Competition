@@ -33,6 +33,7 @@
 ![](https://github.com/iisdd/Competition/blob/main/titanic/upload_pic/merged%20name.png)
 
 ## 热力图
+![](https://github.com/iisdd/Competition/blob/main/titanic/upload_pic/heatmap%20of%20features.png)
 
 * 船厢等级越高(Pclass越小)存活率越高
 * 性别为女比性别为男更容易存活
