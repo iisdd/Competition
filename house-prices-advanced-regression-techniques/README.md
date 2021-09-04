@@ -19,7 +19,7 @@
 ![](https://github.com/iisdd/Competition/blob/main/house-prices-advanced-regression-techniques/upload_pic/SalePrice%20before%20normalized.png)
 
 ### 正态化后
-![]()
+![](https://github.com/iisdd/Competition/blob/main/house-prices-advanced-regression-techniques/upload_pic/SalePrice%20after%20normalized.png)
 
 
 
