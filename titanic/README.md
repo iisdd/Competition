@@ -29,4 +29,5 @@
 ## 称号很多,也把它分桶
 ![](https://github.com/iisdd/Competition/blob/main/titanic/upload_pic/Title%20of%20Name.png)
 
-
+## 分桶后的称号
+![](https://github.com/iisdd/Competition/blob/main/titanic/upload_pic/merged%20name.png)
