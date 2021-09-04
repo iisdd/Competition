@@ -42,3 +42,8 @@
 * 有船舱的更容易活
 * 孤家寡人容易死
 * 称号越稀有越容易活
+
+## 模型结构
+![](https://github.com/iisdd/Competition/blob/main/titanic/upload_pic/titanic.jpg)
+
+准确率 78.2%
