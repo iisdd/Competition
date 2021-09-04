@@ -23,7 +23,19 @@
 
 ## 缺失值填补
 ![](https://github.com/iisdd/Competition/blob/main/house-prices-advanced-regression-techniques/upload_pic/Percent%20missing%20data%20by%20feature.png)
+有6种填补方法
+* 填None
+* 按桶分类填中位数
+* 填0
+* 填众数
+* 直接丢掉特征
+* 填入指定值
 
+然后是特征工程
+* 少的字符串类型变成label
+* 多的字符串类型变成one-hot
+* 加一些新特征
+* 修正特征的偏度(boxcox1p类似归一化的手段)
 
 
 
