@@ -32,7 +32,7 @@
 * 加一些新特征
 * 修正特征的偏度(boxcox1p类似归一化的手段)
 
-## 热力图,看哪些特征跟房价关系比较大
+## 热力图,看哪些特征跟房价关系比较大(只有37个数字特征能求关联性)
 ![](https://github.com/iisdd/Competition/blob/main/house-prices-advanced-regression-techniques/upload_pic/Heatmap.png)
 
 ## 模型
