@@ -31,3 +31,14 @@
 
 ## 分桶后的称号
 ![](https://github.com/iisdd/Competition/blob/main/titanic/upload_pic/merged%20name.png)
+
+
+
+* 船厢等级越高(Pclass越小)存活率越高
+* 性别为女比性别为男更容易存活
+* 年龄越小越容易活
+* 船票越贵越容易活
+* 名字越长越容易活
+* 有船舱的更容易活
+* 孤家寡人容易死
+* 称号越稀有越容易活
