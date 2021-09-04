@@ -18,7 +18,9 @@
 3.学到了Ensemble模型的方法,sklearn的放第一层,XGB,LGB放第二层
 
 
-## 分桶船票价格
+## 分桶船票价格(按数量均分)
 ![](https://github.com/iisdd/Competition/blob/main/titanic/upload_pic/Fare%20distribution.png)
 
+## 分桶年龄(按间距分)
+![](https://github.com/iisdd/Competition/blob/main/titanic/upload_pic/Age%20distribution.png)
 
