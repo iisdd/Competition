@@ -12,3 +12,19 @@
 
 ### 删除后,可以看到面积又大房价又小的点被删除
 ![](https://github.com/iisdd/Competition/blob/main/house-prices-advanced-regression-techniques/upload_pic/After%20Deleting%20outliers.png)
+
+## 把房价分布正态化(利于训练)
+
+### 正态化前
+![](https://github.com/iisdd/Competition/blob/main/house-prices-advanced-regression-techniques/upload_pic/SalePrice%20before%20normalized.png)
+
+### 正态化后
+![]()
+
+
+
+
+
+
+
+
